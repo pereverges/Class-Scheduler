@@ -1,0 +1,13 @@
+{"RestriccionsSubnivell": [],
+  "RestriccionsHora": [
+    {
+    "id": "3",
+    "IntervalHorari": [
+      {"Interval": "LI 8-12"}]
+    },
+    {
+      "id": "4",
+      "IntervalHorari": [
+        {"Interval": "PROP 12-16"}]
+    }]
+}

@@ -1,0 +1,10 @@
+{"PeriodesLectius": [
+  {
+    "nom": "Tarda",
+    "id": "3",
+    "horaInici":14,
+    "horaFinal":20,
+    "dataInici":1,
+    "dataFinal":5
+  }]
+}

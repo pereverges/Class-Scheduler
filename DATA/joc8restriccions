@@ -1,0 +1,41 @@
+{"RestriccionsSubnivell": [{
+  "id": "1",
+  "Subnivell": [
+    {"Codi": "PROP"},
+    {"Codi": "PRO2"},
+    {"Codi": "EC"},
+    {"Codi": "IC"},
+    {"Codi": "M1"},
+    {"Codi": "LP"}
+  ]
+}],
+  "RestriccionsHora": [
+    {
+      "id": "3",
+      "IntervalHorari": [
+        {"Interval": "LI 8-12"}]
+    },
+    {
+      "id": "4",
+      "IntervalHorari": [
+        {"Interval": "PROP 8-10"}]
+    }
+    ,
+    {
+      "id": "5",
+      "IntervalHorari": [
+        {"Interval": "F 8-10"}]
+    }
+  ,
+    {
+      "id": "6",
+      "IntervalHorari": [
+        {"Interval": "FM 8-10"}]
+    }
+  ,
+    {
+      "id": "7",
+      "IntervalHorari": [
+        {"Interval": "PRO2 8-10"}]
+    }]
+}

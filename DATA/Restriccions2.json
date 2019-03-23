@@ -1,0 +1,51 @@
+{
+  "RestriccionsSubnivell": [
+    {
+      "id": "1",
+      "Subnivell": [
+        {
+          "Codi": "SID"
+        },
+        {
+          "Codi": "G"
+        },
+        {
+          "Codi": "LI"
+        },
+        {
+          "Codi": "TC"
+        },
+        {
+          "Codi": "LP"
+        },
+        {
+          "Codi": "LG"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "Subnivell": [
+        {
+          "Codi": "A"
+        },
+        {
+          "Codi": "IA"
+        },
+        {
+          "Codi": "LI"
+        },
+        {
+          "Codi": "TC"
+        },
+        {
+          "Codi": "LP"
+        },
+        {
+          "Codi": "LG"
+        }
+      ]
+    }
+  ],
+  "RestriccionsHora": []
+}

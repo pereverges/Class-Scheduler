@@ -1,0 +1,510 @@
+{"Assignatures": [{
+  "Codi": "PROP",
+  "Nom": "Projectes de Programacio",
+  "NumCredits":6,
+  "NumPlaces":50,
+  "Quadrimestre":1,
+  "NumGrups":3,
+  "numSubgrupsPerGrup":4,
+  "numSessionsSetmanals":2,
+  "horesSetmanals":4,
+  "Correquisits": [
+    {"Codi": "A"},
+    {"Codi": "IA"},
+    {"Codi": "LI"},
+    {"Codi": "TC"},
+    {"Codi": "LP"},
+    {"Codi": "LG"}
+  ],
+  "InverseCorrequisits": [],
+  "Fase": "Obligatoria"
+},
+  {
+    "Codi": "LI",
+    "Nom": "Logica en l'inforamtica",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":1,
+    "numSubgrupsPerGrup":3,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [{
+      "Codi": "PROP"}],
+    "Fase": "Computacio"
+  },
+  {
+    "Codi": "A",
+    "Nom": "Algorismia",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":1,
+    "numSubgrupsPerGrup":3,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [{
+      "Codi": "PROP"}],
+    "Fase": "Computacio"
+  },
+  {
+    "Codi": "IA",
+    "Nom": "Inteligencia Artificial",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":1,
+    "numSubgrupsPerGrup":3,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [{
+      "Codi": "PROP"}],
+    "Fase": "Computacio"
+  },
+  {
+    "Codi": "TC",
+    "Nom": "Teoria de la computacio",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":1,
+    "numSubgrupsPerGrup":3,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [{
+      "Codi": "PROP"}],
+    "Fase": "Computacio"
+  }, {
+    "Codi": "LP",
+    "Nom": "Llengutages de programacio",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":1,
+    "numSubgrupsPerGrup":3,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [{
+      "Codi": "PROP"}],
+    "Fase": "Computacio"
+  }, {
+    "Codi": "G",
+    "Nom": "Grafics",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":1,
+    "numSubgrupsPerGrup":3,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [{
+      "Codi": "PROP"}],
+    "Fase": "Computacio"
+  },
+  {
+    "Codi": "AA",
+    "Nom": "Ampliacio Algorismia",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":1,
+    "numSubgrupsPerGrup":3,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [{
+      "Codi": "PROP"}],
+    "Fase": "Computacio"
+  },
+  {
+    "Codi": "APA",
+    "Nom": "Aprenentatge Automatic",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":1,
+    "numSubgrupsPerGrup":3,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [{
+      "Codi": "PROP"}],
+    "Fase": "Computacio"
+  },
+  {
+    "Codi": "CAIM",
+    "Nom": "Cerca I analisi d'informacio massiva",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":1,
+    "numSubgrupsPerGrup":3,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [{
+      "Codi": "PROP"}],
+    "Fase": "Computacio"
+  },
+  {
+    "Codi": "CL",
+    "Nom": "Compiladors",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":1,
+    "numSubgrupsPerGrup":3,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [{
+      "Codi": "PROP"}],
+    "Fase": "Computacio"
+  },
+  {
+    "Codi": "CN",
+    "Nom": "Computacio Numerica",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":1,
+    "numSubgrupsPerGrup":3,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [{
+      "Codi": "PROP"}],
+    "Fase": "Computacio"
+  },
+  {
+    "Codi": "IO",
+    "Nom": "Investigacio Operativa",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":1,
+    "numSubgrupsPerGrup":3,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [{
+      "Codi": "PROP"}],
+    "Fase": "Computacio"
+  },
+  {
+    "Codi": "SID",
+    "Nom": "Sistemes Inteligents distribuits",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":1,
+    "numSubgrupsPerGrup":3,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [{
+      "Codi": "PROP"}],
+    "Fase": "Computacio"
+  },
+  {
+    "Codi": "PRO1",
+    "Nom": "Programacio1",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":3,
+    "numSubgrupsPerGrup":4,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [],
+    "Fase": "Inicial"
+  },
+  {
+    "Codi": "PRO2",
+    "Nom": "Programacio2",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":3,
+    "numSubgrupsPerGrup":4,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [],
+    "Fase": "Inicial"
+  },
+  {
+    "Codi": "F",
+    "Nom": "Fisica",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":3,
+    "numSubgrupsPerGrup":4,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [],
+    "Fase": "Inicial"
+  },
+  {
+    "Codi": "IC",
+    "Nom": "Introduccio als computadors",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":3,
+    "numSubgrupsPerGrup":4,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [],
+    "Fase": "Inicial"
+  },
+  {
+    "Codi": "FM",
+    "Nom": "Fonament matematics",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":3,
+    "numSubgrupsPerGrup":4,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [],
+    "Fase": "Inicial"
+  },
+  {
+    "Codi": "EC",
+    "Nom": "Estructura de computadors",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":3,
+    "numSubgrupsPerGrup":4,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [],
+    "Fase": "Inicial"
+  },
+  {
+    "Codi": "M1",
+    "Nom": "Matematiques 1",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":3,
+    "numSubgrupsPerGrup":4,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [],
+    "Fase": "Inicial"
+  },
+  {
+    "Codi": "M2",
+    "Nom": "Matematiques 2",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":3,
+    "numSubgrupsPerGrup":4,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [],
+    "Fase": "Inicial"
+  },
+  {
+    "Codi": "EDA",
+    "Nom": "Estructura de dades i algorismes",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":3,
+    "numSubgrupsPerGrup":4,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [],
+    "Fase": "Obligatoria"
+  },
+  {
+    "Codi": "CI",
+    "Nom": "Interficie de computadors",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":3,
+    "numSubgrupsPerGrup":4,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [],
+    "Fase": "Obligatoria"
+  }
+,
+  {
+    "Codi": "PE",
+    "Nom": "Probabilitat i estadistica",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":3,
+    "numSubgrupsPerGrup":4,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [],
+    "Fase": "Obligatoria"
+  }
+,
+  {
+    "Codi": "BD",
+    "Nom": "Base de dades",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":3,
+    "numSubgrupsPerGrup":4,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [],
+    "Fase": "Obligatoria"
+  }
+,
+  {
+    "Codi": "SO",
+    "Nom": "Sistemes Operatius",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":3,
+    "numSubgrupsPerGrup":4,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [],
+    "Fase": "Obligatoria"
+  }
+,
+  {
+    "Codi": "IDI",
+    "Nom": "Interaccio i disseny d'interficies",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":3,
+    "numSubgrupsPerGrup":4,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [],
+    "Fase": "Obligatoria"
+  }
+,
+  {
+    "Codi": "AC",
+    "Nom": "Arquitectura de computadors",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":3,
+    "numSubgrupsPerGrup":4,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [],
+    "Fase": "Obligatoria"
+  }
+,
+  {
+    "Codi": "EEE",
+    "Nom": "Empresa i Entorn Economic",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":3,
+    "numSubgrupsPerGrup":4,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [],
+    "Fase": "Obligatoria"
+  },
+  {
+    "Codi": "IES",
+    "Nom": "Introduccio a l'enginyeria de software",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":3,
+    "numSubgrupsPerGrup":4,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [],
+    "Fase": "Obligatoria"
+  }
+,
+  {
+    "Codi": "XC",
+    "Nom": "Xarxes de computadors",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":3,
+    "numSubgrupsPerGrup":4,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [],
+    "Fase": "Obligatoria"
+  }
+,
+  {
+    "Codi": "PAR",
+    "Nom": "Paralelisme",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":3,
+    "numSubgrupsPerGrup":4,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [],
+    "Fase": "Obligatoria"
+  }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

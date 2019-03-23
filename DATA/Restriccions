@@ -1,0 +1,30 @@
+{"RestriccionsSubnivell": [{
+  "id": "1",
+  "Subnivell": [
+    {"Codi": "G"},
+    {"Codi": "LI"},
+    {"Codi": "TC"},
+    {"Codi": "LP"}]
+ },
+  {
+    "id": "2",
+    "Subnivell": [
+    {"Codi": "A"},
+    {"Codi": "IA"},
+    {"Codi": "LI"},
+    {"Codi": "TC"},
+    {"Codi": "LP"},
+    {"Codi": "LG"}]
+  }],
+  "RestriccionsHora": [ {
+    "id": "3",
+    "IntervalHorari": [
+      {"Interval": "LI 18-20"}]
+  },
+    {
+      "id": "4",
+      "IntervalHorari": [
+        {"Interval": "PROP 12-16"}]
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{"Aules": [
+  {
+    "nom": "5be55a595c76c8d8397544c9",
+    "tipusAula": 2,
+    "aforament": 38
+  },
+  {
+    "nom": "5be55a5906c4deebcdb44d6a",
+    "tipusAula": 1,
+    "aforament": 56
+  },
+  {
+    "nom": "5be55a599dfa016a2d3885cc",
+    "tipusAula": 3,
+    "aforament": 29
+  },
+  {
+    "nom": "5be55a597c64162dc9ba3e1c",
+    "tipusAula": 3,
+    "aforament": 37
+  },
+  {
+    "nom": "5be55a5972e96dc2ec8c4e55",
+    "tipusAula": 1,
+    "aforament": 53
+  },
+  {
+    "nom": "5be55a59b11bfe618553bdad",
+    "tipusAula": 3,
+    "aforament": 39
+  },
+  {
+    "nom": "5be55a59d45f29d128f00399",
+    "tipusAula": 2,
+    "aforament": 48
+  },
+  {
+    "nom": "5be55a59b86864900e904713",
+    "tipusAula": 2,
+    "aforament": 59
+  },
+  {
+    "nom": "5be55a59014fe8ed1dc593b6",
+    "tipusAula": 2,
+    "aforament": 25
+  },
+  {
+    "nom": "5be55a5920aaf256d6566d6c",
+    "tipusAula": 1,
+    "aforament": 30
+  },
+  {
+    "nom": "5be55a59cef4756d01e32d45",
+    "tipusAula": 2,
+    "aforament": 30
+  },
+  {
+    "nom": "5be55a594b5f2373478dbf65",
+    "tipusAula": 2,
+    "aforament": 54
+  },
+  {
+    "nom": "5be55a59b8af3ec51f3502d1",
+    "tipusAula": 1,
+    "aforament": 27
+  },
+  {
+    "nom": "5be55a5919eafb7461d3c922",
+    "tipusAula": 3,
+    "aforament": 46
+  },
+  {
+    "nom": "5be55a59497f7ed5fc303511",
+    "tipusAula": 3,
+    "aforament": 48
+  },
+  {
+    "nom": "5be55a598634f3b6729d5d8b",
+    "tipusAula": 1,
+    "aforament": 51
+  },
+  {
+    "nom": "5be55a5991f9256b8c38128e",
+    "tipusAula": 2,
+    "aforament": 44
+  },
+  {
+    "nom": "5be55a592cd6fa0714c39d00",
+    "tipusAula": 1,
+    "aforament": 38
+  },
+  {
+    "nom": "5be55a591894018c4b55500b",
+    "tipusAula": 1,
+    "aforament": 33
+  },
+  {
+    "nom": "5be55a59d97e4d0013ec46e4",
+    "tipusAula": 2,
+    "aforament": 20
+  },
+  {
+    "nom": "5be55a59313e97aca71206d5",
+    "tipusAula": 2,
+    "aforament": 37
+  },
+  {
+    "nom": "5be55a5980637e524f62dd68",
+    "tipusAula": 3,
+    "aforament": 25
+  },
+  {
+    "nom": "5be55a59c6bdad2370ba4ee5",
+    "tipusAula": 3,
+    "aforament": 54
+  },
+  {
+    "nom": "5be55a59ac5792c1f588ea68",
+    "tipusAula": 1,
+    "aforament": 26
+  },
+  {
+    "nom": "5be55a59b52929d6b22a1e8a",
+    "tipusAula": 3,
+    "aforament": 50
+  },
+  {
+    "nom": "5be55a5992d8c207e405f0fa",
+    "tipusAula": 3,
+    "aforament": 54
+  },
+  {
+    "nom": "5be55a598dd7e52ceb50d496",
+    "tipusAula": 2,
+    "aforament": 22
+  },
+  {
+    "nom": "5be55a597c5933006bcb8e15",
+    "tipusAula": 3,
+    "aforament": 21
+  },
+  {
+    "nom": "5be55a59daf0697a789504ad",
+    "tipusAula": 3,
+    "aforament": 37
+  },
+  {
+    "nom": "5be55a59eca019cb8031e355",
+    "tipusAula": 1,
+    "aforament": 47
+  },
+  {
+    "nom": "5be55a592f7c65531867fd58",
+    "tipusAula": 3,
+    "aforament": 27
+  },
+  {
+    "nom": "5be55a59a1cb64858d737ac8",
+    "tipusAula": 2,
+    "aforament": 44
+  },
+  {
+    "nom": "5be55a5927f2540069a6be5f",
+    "tipusAula": 1,
+    "aforament": 39
+  },
+  {
+    "nom": "5be55a5968b7afd6211d8477",
+    "tipusAula": 2,
+    "aforament": 45
+  },
+  {
+    "nom": "5be55a594f93d0bc697c402e",
+    "tipusAula": 2,
+    "aforament": 44
+  },
+  {
+    "nom": "5be55a59c027c1a9a41bb973",
+    "tipusAula": 2,
+    "aforament": 52
+  },
+  {
+    "nom": "5be55a59c0b68e79af90e101",
+    "tipusAula": 3,
+    "aforament": 60
+  },
+  {
+    "nom": "5be55a59a0729760b271e22b",
+    "tipusAula": 3,
+    "aforament": 30
+  },
+  {
+    "nom": "5be55a59e1b073640e6a5ff8",
+    "tipusAula": 2,
+    "aforament": 26
+  },
+  {
+    "nom": "5be55a59a68e182e01ad6f6d",
+    "tipusAula": 3,
+    "aforament": 47
+  },
+  {
+    "nom": "5be55a5920e7fe2a4f7af6c0",
+    "tipusAula": 3,
+    "aforament": 35
+  },
+  {
+    "nom": "5be55a59aaef0920b20fde42",
+    "tipusAula": 3,
+    "aforament": 28
+  },
+  {
+    "nom": "5be55a59158a41f4c3fa1c50",
+    "tipusAula": 2,
+    "aforament": 36
+  },
+  {
+    "nom": "5be55a5987e8b365190c77ab",
+    "tipusAula": 2,
+    "aforament": 25
+  },
+  {
+    "nom": "5be55a59091a8859fffb1fd9",
+    "tipusAula": 2,
+    "aforament": 20
+  },
+  {
+    "nom": "5be55a5925f66cc91f5ea093",
+    "tipusAula": 2,
+    "aforament": 53
+  },
+  {
+    "nom": "5be55a595072f8d7696e1b8f",
+    "tipusAula": 2,
+    "aforament": 36
+  },
+  {
+    "nom": "5be55a5905a94cda00899809",
+    "tipusAula": 1,
+    "aforament": 31
+  },
+  {
+    "nom": "5be55a597a72d4e87ebe5b8f",
+    "tipusAula": 2,
+    "aforament": 41
+  },
+  {
+    "nom": "5be55a5907a9e7cbe46fcfc7",
+    "tipusAula": 2,
+    "aforament": 20
+  },
+  {
+    "nom": "5be55a59e802b981228b25dd",
+    "tipusAula": 1,
+    "aforament": 25
+  },
+  {
+    "nom": "5be55a59502821beafccd3ef",
+    "tipusAula": 2,
+    "aforament": 31
+  },
+  {
+    "nom": "5be55a59fd487214a6ed1e29",
+    "tipusAula": 2,
+    "aforament": 38
+  },
+  {
+    "nom": "5be55a593154dd00f45b4e87",
+    "tipusAula": 3,
+    "aforament": 36
+  },
+  {
+    "nom": "5be55a59ba699c2c60b86424",
+    "tipusAula": 2,
+    "aforament": 56
+  },
+  {
+    "nom": "5be55a59f4d04e28c9057c0d",
+    "tipusAula": 1,
+    "aforament": 47
+  },
+  {
+    "nom": "5be55a59b828c4f07e524202",
+    "tipusAula": 3,
+    "aforament": 21
+  },
+  {
+    "nom": "5be55a59f5955e20ef09022b",
+    "tipusAula": 3,
+    "aforament": 56
+  },
+  {
+    "nom": "5be55a59fb5eef33f1dd2215",
+    "tipusAula": 2,
+    "aforament": 49
+  },
+  {
+    "nom": "5be55a59baa1364e21fd94c8",
+    "tipusAula": 3,
+    "aforament": 39
+  },
+  {
+    "nom": "5be55a59a3f0ebb55739372d",
+    "tipusAula": 1,
+    "aforament": 44
+  },
+  {
+    "nom": "5be55a59c670a4d9838d4339",
+    "tipusAula": 1,
+    "aforament": 50
+  },
+  {
+    "nom": "5be55a5913f5323d92e74b4c",
+    "tipusAula": 3,
+    "aforament": 47
+  },
+  {
+    "nom": "5be55a5957781778fb914344",
+    "tipusAula": 2,
+    "aforament": 44
+  },
+  {
+    "nom": "5be55a5944ce95ad4702c5ea",
+    "tipusAula": 1,
+    "aforament": 52
+  },
+  {
+    "nom": "5be55a591e8d063010ca9afa",
+    "tipusAula": 3,
+    "aforament": 47
+  },
+  {
+    "nom": "5be55a590d93cf42925724ff",
+    "tipusAula": 3,
+    "aforament": 58
+  },
+  {
+    "nom": "5be55a590b74f70a515a1d8d",
+    "tipusAula": 1,
+    "aforament": 56
+  },
+  {
+    "nom": "5be55a59ce39b70b4b3600bd",
+    "tipusAula": 1,
+    "aforament": 37
+  },
+  {
+    "nom": "5be55a59ec92c35be9a6b1ce",
+    "tipusAula": 2,
+    "aforament": 48
+  },
+  {
+    "nom": "5be55a59b6c8d997dfc01369",
+    "tipusAula": 3,
+    "aforament": 45
+  },
+  {
+    "nom": "5be55a594a008ce909b5d639",
+    "tipusAula": 1,
+    "aforament": 29
+  },
+  {
+    "nom": "5be55a59150dd7afedfb1df2",
+    "tipusAula": 2,
+    "aforament": 45
+  },
+  {
+    "nom": "5be55a594a24969ca6516c76",
+    "tipusAula": 3,
+    "aforament": 33
+  },
+  {
+    "nom": "5be55a590858be073b0727d6",
+    "tipusAula": 1,
+    "aforament": 32
+  },
+  {
+    "nom": "5be55a59b0ec98918a4d3e34",
+    "tipusAula": 3,
+    "aforament": 25
+  },
+  {
+    "nom": "5be55a591729eb4e3c6bbdd7",
+    "tipusAula": 1,
+    "aforament": 26
+  },
+  {
+    "nom": "5be55a59141b3be6097a6f81",
+    "tipusAula": 3,
+    "aforament": 58
+  },
+  {
+    "nom": "5be55a59b2beb4ef2a1b518e",
+    "tipusAula": 3,
+    "aforament": 26
+  },
+  {
+    "nom": "5be55a594bf33b4ab0fdf86e",
+    "tipusAula": 2,
+    "aforament": 31
+  },
+  {
+    "nom": "5be55a5936fb1c23c5f6f425",
+    "tipusAula": 2,
+    "aforament": 47
+  },
+  {
+    "nom": "5be55a599eee3a0418417569",
+    "tipusAula": 3,
+    "aforament": 59
+  },
+  {
+    "nom": "5be55a596578394c0f59114e",
+    "tipusAula": 2,
+    "aforament": 29
+  },
+  {
+    "nom": "5be55a598fda4b2f5b20d598",
+    "tipusAula": 1,
+    "aforament": 43
+  },
+  {
+    "nom": "5be55a59887b595634a1ce89",
+    "tipusAula": 1,
+    "aforament": 60
+  },
+  {
+    "nom": "5be55a5919e567e2adc187dd",
+    "tipusAula": 2,
+    "aforament": 36
+  },
+  {
+    "nom": "5be55a59cdfe0552f8b7ab26",
+    "tipusAula": 2,
+    "aforament": 38
+  },
+  {
+    "nom": "5be55a59b129b15d59938147",
+    "tipusAula": 2,
+    "aforament": 57
+  },
+  {
+    "nom": "5be55a593d81948e7460a54f",
+    "tipusAula": 1,
+    "aforament": 20
+  },
+  {
+    "nom": "5be55a595c4e457179343d0a",
+    "tipusAula": 1,
+    "aforament": 35
+  },
+  {
+    "nom": "5be55a596eb660c808cbaa9b",
+    "tipusAula": 2,
+    "aforament": 29
+  },
+  {
+    "nom": "5be55a59c9ddf6d5104bac6d",
+    "tipusAula": 3,
+    "aforament": 25
+  },
+  {
+    "nom": "5be55a59ea9d5e0850464f84",
+    "tipusAula": 2,
+    "aforament": 44
+  },
+  {
+    "nom": "5be55a59d4f1fe9c53da4e7e",
+    "tipusAula": 3,
+    "aforament": 47
+  },
+  {
+    "nom": "5be55a59601b69fa01c21593",
+    "tipusAula": 1,
+    "aforament": 39
+  },
+  {
+    "nom": "5be55a59b3579d56ca2506d6",
+    "tipusAula": 1,
+    "aforament": 23
+  },
+  {
+    "nom": "5be55a59ee0c8a70a6dee85d",
+    "tipusAula": 3,
+    "aforament": 52
+  },
+  {
+    "nom": "5be55a59f8bbd80a0eff9670",
+    "tipusAula": 2,
+    "aforament": 34
+  },
+  {
+    "nom": "5be55a59475b0f1d917cca2b",
+    "tipusAula": 2,
+    "aforament": 53
+  },
+  {
+    "nom": "5be55a59fb18bbc0692141a2",
+    "tipusAula": 1,
+    "aforament": 58
+  }
+]}

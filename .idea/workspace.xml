@@ -1,0 +1,1192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dee0d8f2-9bd5-4f20-8969-03fdbcc97d55" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/prop/fib/horaris/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/prop/fib/horaris/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/prop/fib/horaris/data/CtrlFitxerAules.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/prop/fib/horaris/data/CtrlFitxerAules.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/prop/fib/horaris/presentation/ViewLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/prop/fib/horaris/presentation/ViewLogin.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Classes/Assignatura.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/data/CtrlFitxerAules.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1005">
+              <caret line="80" column="15" selection-start-line="80" selection-start-column="15" selection-end-line="80" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/data/CtrlFitxerGrupAssig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1320">
+              <caret line="101" selection-start-line="101" selection-end-line="101" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/data/CtrlFitxerAssig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="102" column="18" selection-start-line="102" selection-start-column="18" selection-end-line="102" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DATA/assignatures6">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DATA/Assignatures">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Classes/Horari.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="18" column="10" selection-start-line="93" selection-start-column="58" selection-end-line="93" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Classes/Posibilidad.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Classes/Escenari.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1950">
+              <caret line="160" column="16" selection-start-line="160" selection-start-column="16" selection-end-line="160" selection-end-column="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Classes/PlaEstudis.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>horariD</find>
+      <find>mismoSu</find>
+      <find>posibilidades</find>
+      <find>generarpos</find>
+      <find>generar</find>
+      <find>generarPo</find>
+      <find>generarPosibilidades</find>
+      <find>A</find>
+      <find>A PR</find>
+      <find>A T</find>
+      <find>50</find>
+      <find>10 A</find>
+      <find>Horari no es pot canviar</find>
+      <find>printHora</find>
+      <find>LI TEORIA</find>
+      <find>print</find>
+      <find>A6101</find>
+      <find>mismoSubnivel</find>
+      <find>canviCorr</find>
+      <find>horaDinsInterval</find>
+      <find>guardarHorari</find>
+      <find>printHorari</find>
+      <find>PRO2</find>
+      <find>M2</find>
+      <find>XC</find>
+      <find>IES</find>
+      <find>I</find>
+      <find>remove</find>
+      <find>editar</find>
+      <find>assignaturas</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Test/DriverAdmin.java" />
+        <option value="$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Test/DriverUser.java" />
+        <option value="$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Test/DriverCtrlDominio.java" />
+        <option value="$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Test/DriverGrupAssignatura.java" />
+        <option value="$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Test/DriverHorari.java" />
+        <option value="$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Test/DriverPeriodeLectiu.java" />
+        <option value="$PROJECT_DIR$/DATA/AssignaturesAmbCorrequisits" />
+        <option value="$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Test/DriverAula.java" />
+        <option value="$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Test/CtrlDrivers.java" />
+        <option value="$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Test/DriverRestriccions.java" />
+        <option value="$PROJECT_DIR$/src/com/prop/fib/horaris/presentation/VistaUser.java" />
+        <option value="$PROJECT_DIR$/DATA/AulesPetita" />
+        <option value="$PROJECT_DIR$/DATA/HorarisGenerats/admin/juanse.json" />
+        <option value="$PROJECT_DIR$/DATA/HorarisGenerats/admin/asd.json" />
+        <option value="$PROJECT_DIR$/DATA/GrupAssignatures" />
+        <option value="$PROJECT_DIR$/DATA/PeriodeLectiuMatins" />
+        <option value="$PROJECT_DIR$/DATA/PeriodeLectiuTardes" />
+        <option value="$PROJECT_DIR$/DATA/HorarisGenerats/admin/MODIFICAR.json" />
+        <option value="$PROJECT_DIR$/src/com/prop/fib/horaris/data/CtrlFitxerUser.java" />
+        <option value="$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Classes/LlistaGrupAssigYfilename.java" />
+        <option value="$PROJECT_DIR$/src/com/prop/fib/horaris/data/CtrlFitxerRestriccions.java" />
+        <option value="$PROJECT_DIR$/DATA/RestriccionsDObles" />
+        <option value="$PROJECT_DIR$/DATA/Restriccions2.json" />
+        <option value="$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Controllers/AdminController.java" />
+        <option value="$PROJECT_DIR$/DATA/AssignaturesMateixNivell" />
+        <option value="$PROJECT_DIR$/src/com/prop/fib/horaris/data/CtrlFitxerGrupAssig.java" />
+        <option value="$PROJECT_DIR$/src/com/prop/fib/horaris/data/CtrlFitxerPeriodeLectiu.java" />
+        <option value="$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Classes/Escenari.java" />
+        <option value="$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Classes/GrupAssignatura.java" />
+        <option value="$PROJECT_DIR$/DATA/Restriccions" />
+        <option value="$PROJECT_DIR$/DATA/RestriccionsSubnivellSenzill" />
+        <option value="$PROJECT_DIR$/DATA/RestriccionsIntervalHorariSenzill" />
+        <option value="$PROJECT_DIR$/DATA/RestriccionsBuit" />
+        <option value="$PROJECT_DIR$/DATA/AssignaturesClasseGrupISubGrupNoPotSerElMateixDia" />
+        <option value="$PROJECT_DIR$/DATA/AssignaturesPetitaPerRestriccionsDeIntervalISubnivell" />
+        <option value="$PROJECT_DIR$/DATA/RestriccionsBuidesEditades" />
+        <option value="$PROJECT_DIR$/DATA/RestriccionsIntervalHorariSenzillRestrictiu" />
+        <option value="$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Classes/Restriccions.java" />
+        <option value="$PROJECT_DIR$/DATA/RestriccionsSenzillesIntervalHorariISubnivell" />
+        <option value="$PROJECT_DIR$/DATA/AssignaturesProvaGran" />
+        <option value="$PROJECT_DIR$/DATA/Assignatures" />
+        <option value="$PROJECT_DIR$/DATA/joc8restriccions" />
+        <option value="$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Controllers/CtrlDominio.java" />
+        <option value="$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Test/JocsDeProvaFinal.java" />
+        <option value="$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Classes/PlaEstudis.java" />
+        <option value="$PROJECT_DIR$/src/com/prop/fib/horaris/presentation/CtrlPresentacio.java" />
+        <option value="$PROJECT_DIR$/src/com/prop/fib/horaris/presentation/CtrlPresentationVistaUser.java" />
+        <option value="$PROJECT_DIR$/src/com/prop/fib/horaris/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/prop/fib/horaris/presentation/ViewLogin.java" />
+        <option value="$PROJECT_DIR$/src/com/prop/fib/horaris/data/CtrlFitxerAules.java" />
+        <option value="$PROJECT_DIR$/src/com/prop/fib/horaris/data/CtrlFitxerAssig.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="963" />
+    <option name="y" value="25" />
+    <option name="width" value="957" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PROP_44.3 Consola" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PROP_44.3 Consola" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545413696901" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15332031" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prop.fib.horaris.Main" />
+      <module name="PROP-Horaris" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prop.fib.horaris.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.prop.fib.horaris.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.prop.fib.horaris.domain.Test in PROP-Horaris" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PROP-Horaris" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prop.fib.horaris.domain.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.prop.fib.horaris.domain.Test" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.com.prop.fib.horaris.domain.Test in PROP-Horaris" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.com.prop.fib.horaris.domain.Test in PROP-Horaris" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dee0d8f2-9bd5-4f20-8969-03fdbcc97d55" name="Default Changelist" comment="" />
+      <created>1541947809106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541947809106</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Presentacion horari">
+      <created>1541950924269</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1541950924269</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Presentacion horari">
+      <created>1541964542087</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1541964542087</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Presentacion horari">
+      <created>1542014047608</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1542014047608</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Drivers">
+      <created>1542020996015</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1542020996015</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Drivers">
+      <created>1542022143633</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1542022143633</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Drivers">
+      <created>1542025038202</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1542025038202</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Drivers">
+      <created>1542025607108</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1542025607108</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Drivers">
+      <created>1542102310529</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1542102310529</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Drivers">
+      <created>1542103027138</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1542103027138</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Drivers">
+      <created>1542103040472</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1542103040472</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Drivers">
+      <created>1542104974826</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1542104974826</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Drivers">
+      <created>1542109049239</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1542109049239</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Drivers terminados">
+      <created>1542184702514</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1542184702514</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Drivers terminados">
+      <created>1542222682679</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1542222682679</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Drivers terminados">
+      <created>1542223636857</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1542223636857</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Drivers terminados">
+      <created>1542228635056</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1542228635056</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Drivers terminados">
+      <created>1542230801301</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1542230801301</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Drivers terminados">
+      <created>1542272959837</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1542272959837</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Drivers terminados">
+      <created>1543489309741</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1543489309741</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Modificar escenari (totes les funcions implementades)">
+      <created>1543840109661</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1543840109661</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Canvi de CtrlDominio en les funcions de generarHorari, creacio de print i guardar del (private Horari declarat a dalt) no tenen parametres, i funcio de genrear un string a pratir de List&lt;GrupAssignatura&gt; tambe modificacio de presentacioVisitaUser per tal que no arribin datos no standards&#10;&#10;COMPROVA QUE ESTIGUI BEN IMPLEMENTAT">
+      <created>1544009751495</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1544009751495</updated>
+    </task>
+    <task id="LOCAL-00022" summary="modificacions menors">
+      <created>1544015708268</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1544015708268</updated>
+    </task>
+    <task id="LOCAL-00023" summary="modificacions menors">
+      <created>1544017412373</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1544017412373</updated>
+    </task>
+    <task id="LOCAL-00024" summary="modificacions menors">
+      <created>1544017544055</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1544017544055</updated>
+    </task>
+    <task id="LOCAL-00025" summary="singelton arreglao">
+      <created>1544032191755</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1544032191755</updated>
+    </task>
+    <task id="LOCAL-00026" summary="modificar horario funciona, falta arreglar capas">
+      <created>1544036861997</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1544036861997</updated>
+    </task>
+    <task id="LOCAL-00027" summary="modificar horario funciona, capas arreglado">
+      <created>1544042425450</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1544042425450</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Modificacion de horarios guardados hecha&#10;(no funciona con los antigous, es decir si ahora guardas un horario nuevo lo podras modificar despues, pero con los ya guardados no funciona)">
+      <created>1544088859673</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1544088859673</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Fitxer de restriccions ja creat i implementat en l'escenari, nomes falta que es compleixin les restriccions quan s'afegeixien. Pero tot funciona correctament">
+      <created>1544695367218</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1544695367218</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Tres fitxers de restriccions molt basics">
+      <created>1544695439055</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1544695439055</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Documentacio de les noves funcions i classes creades">
+      <created>1544868470927</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1544868470927</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Documentacio de les noves funcions i classes creades">
+      <created>1544868881518</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1544868881518</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Restriccio dins horari, no esta acabada">
+      <created>1544955810857</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1544955810857</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Restriccio dins horari, no esta acabada">
+      <created>1544956005344</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1544956005344</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Funciona el modificar restricciones de intervalHorari pero no funciona la propagar">
+      <created>1545249792604</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1545249792604</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Funciona el modificar restricciones de intervalHorari pero no funciona la propagar">
+      <created>1545256490405</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1545256490405</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Arreglado interval horari">
+      <created>1545331141495</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1545331141495</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Arreglado interval horari">
+      <created>1545331182478</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1545331182478</updated>
+    </task>
+    <task id="LOCAL-00039" summary="doc">
+      <created>1545336288230</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1545336288230</updated>
+    </task>
+    <task id="LOCAL-00040" summary="doc">
+      <created>1545339743025</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1545339743025</updated>
+    </task>
+    <task id="LOCAL-00041" summary="funcio editar restriccion interval hecha">
+      <created>1545340837080</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1545340837080</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Jocs de proves">
+      <created>1545347946495</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1545347946495</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Jocs de proves">
+      <created>1545377067189</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1545377067189</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Jocs de proves">
+      <created>1545381427065</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1545381427065</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Jocs de proves">
+      <created>1545384711608</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1545384711608</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Ultim joc de proves">
+      <created>1545389859513</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1545389859513</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Jocs de proba acabats">
+      <created>1545390534812</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1545390534812</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Jocs de proba acabats">
+      <created>1545390599954</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1545390599955</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="com_prop_fib_horaris_domain_Test_in_PROP-Horaris - 2018.11.13 at 11h 01m 20s.xml">
+      <configuration name="com.prop.fib.horaris.domain.Test in PROP-Horaris" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_prop_fib_horaris_domain_Test_in_PROP-Horaris - 2018.11.13 at 11h 14m 39s.xml">
+      <configuration name="com.prop.fib.horaris.domain.Test in PROP-Horaris" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_prop_fib_horaris_domain_Test_in_PROP-Horaris - 2018.11.13 at 11h 14m 54s.xml">
+      <configuration name="com.prop.fib.horaris.domain.Test in PROP-Horaris" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_prop_fib_horaris_domain_Test_in_PROP-Horaris - 2018.11.13 at 11h 15m 07s.xml">
+      <configuration name="com.prop.fib.horaris.domain.Test in PROP-Horaris" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="963" y="25" width="957" height="1053" extended-state="4" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.37650934" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32972974" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49943247" visible="true" weight="0.17513514" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32972974" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50056756" side_tool="true" weight="0.22702703" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.22162162" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4997233" weight="0.1891892" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49943247" weight="0.32972974" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32982844" />
+      <window_info anchor="right" id="Maven" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.1776425" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32972974" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49943247" weight="0.2972973" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32972974" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50056756" side_tool="true" weight="0.22702703" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2038835" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4997233" visible="true" weight="0.1891892" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49943247" weight="0.32972974" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32982844" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Presentacion horari" />
+    <MESSAGE value="Merge branch 'master' of gitlab.com:gloww/prop-horaris&#10;&#10;# Conflicts:&#10;#&#9;src/com/prop/fib/horaris/domain/Controllers/CtrlDominio.java" />
+    <MESSAGE value="Drivers" />
+    <MESSAGE value="Drivers terminados" />
+    <MESSAGE value="Modificar escenari (totes les funcions implementades)" />
+    <MESSAGE value="Canvi de CtrlDominio en les funcions de generarHorari, creacio de print i guardar del (private Horari declarat a dalt) no tenen parametres, i funcio de genrear un string a pratir de List&lt;GrupAssignatura&gt; tambe modificacio de presentacioVisitaUser per tal que no arribin datos no standards&#10;&#10;COMPROVA QUE ESTIGUI BEN IMPLEMENTAT" />
+    <MESSAGE value="modificacions menors" />
+    <MESSAGE value="singelton arreglao" />
+    <MESSAGE value="modificar horario funciona, falta arreglar capas" />
+    <MESSAGE value="modificar horario funciona, capas arreglado" />
+    <MESSAGE value="Modificacion de horarios guardados hecha&#10;(no funciona con los antigous, es decir si ahora guardas un horario nuevo lo podras modificar despues, pero con los ya guardados no funciona)" />
+    <MESSAGE value="Fitxer de restriccions ja creat i implementat en l'escenari, nomes falta que es compleixin les restriccions quan s'afegeixien. Pero tot funciona correctament" />
+    <MESSAGE value="Tres fitxers de restriccions molt basics" />
+    <MESSAGE value="Documentacio de les noves funcions i classes creades" />
+    <MESSAGE value="Restriccio dins horari, no esta acabada" />
+    <MESSAGE value="Funciona el modificar restricciones de intervalHorari pero no funciona la propagar" />
+    <MESSAGE value="Arreglado interval horari" />
+    <MESSAGE value="doc" />
+    <MESSAGE value="funcio editar restriccion interval hecha" />
+    <MESSAGE value="Jocs de proves" />
+    <MESSAGE value="Ultim joc de proves" />
+    <MESSAGE value="Jocs de proba acabats" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jocs de proba acabats" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Controllers/AlumneController.java" />
+    <entry file="file://$PROJECT_DIR$/DATA/AssignaturesMateixNivell">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="27" selection-end-line="35" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/data/CtrlFitxerRestriccions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="106" selection-start-line="106" selection-end-line="106" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/Restriccions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/AssignaturesClasseGrupISubGrupNoPotSerElMateixDia">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/AulesPetita">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/AssignaturesPetitaPerRestriccionsDeIntervalISubnivell">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/RestriccionsBuit">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/RestriccionsBuidesEditadesIntervalHorari">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/RestriccionsBuidesEditadesSubnivell">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/RestriccionsBuidesEditades">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="102" selection-start-column="102" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/RestriccionsSenzillesIntervalHorariISubnivell">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/restriccions6">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/RestriccionsIntervalHorariSenzillRestrictiu">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/AssignaturesProvaGran">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="229" column="13" selection-start-line="229" selection-start-column="13" selection-end-line="229" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/RestriccionsEditades">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/restriccions6eliminatSubnivell">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/RestriccionsIntervalHorariSenzill">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/RestriccionsSubnivellSenzill">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/joc8restriccions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-45">
+          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/joc7restriccions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="48" selection-end-column="319" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Test/DriverGrupAssignatura.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="115" column="5" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="115" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Test/DriverAssignatura.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="13" column="16" selection-start-line="13" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Test/RestriccionsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Test/DriverUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/HorarisGenerats/admin/jocDeProves6.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Classes/Admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Classes/LlistaGrupAssigYfilename.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Classes/PeriodeLectiu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="97" selection-start-line="97" selection-end-line="99" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Controllers/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Controllers/CtrlDominio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3480">
+          <caret line="241" column="12" lean-forward="true" selection-start-line="241" selection-start-column="12" selection-end-line="241" selection-end-column="12" />
+          <folding>
+            <element signature="e#2218#2219#0" expanded="true" />
+            <element signature="e#2300#2301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Controllers/CtrlDominioMantUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Classes/GrupAssignatura.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-479">
+          <caret line="135" column="7" selection-start-line="135" selection-start-column="7" selection-end-line="135" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Classes/Aula.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Classes/Restriccions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="92" column="44" selection-start-line="92" selection-start-column="38" selection-end-line="92" selection-end-column="44" />
+          <folding>
+            <element signature="e#748#749#0" expanded="true" />
+            <element signature="e#776#777#0" expanded="true" />
+            <element signature="e#856#857#0" expanded="true" />
+            <element signature="e#882#883#0" expanded="true" />
+            <element signature="e#945#946#0" expanded="true" />
+            <element signature="e#970#971#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/presentation/ViewLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="40" column="59" selection-start-line="40" selection-start-column="59" selection-end-line="40" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Test/JocsDeProvaFinal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="126" column="31" selection-start-line="126" selection-start-column="20" selection-end-line="126" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/presentation/CtrlPresentationVistaUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="70" column="29" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/presentation/CtrlPresentacio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="28" />
+          <folding>
+            <element signature="e#2776#2777#0" expanded="true" />
+            <element signature="e#2832#2833#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Classes/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Classes/Assignatura.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/data/CtrlFitxerAules.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="80" column="15" selection-start-line="80" selection-start-column="15" selection-end-line="80" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/data/CtrlFitxerGrupAssig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/assignatures6">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/Assignatures">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Classes/Horari.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="10" selection-start-line="93" selection-start-column="58" selection-end-line="93" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Classes/Posibilidad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Classes/Escenari.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="160" column="16" selection-start-line="160" selection-start-column="16" selection-end-line="160" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/domain/Classes/PlaEstudis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/prop/fib/horaris/data/CtrlFitxerAssig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="102" column="18" selection-start-line="102" selection-start-column="18" selection-end-line="102" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>PROP-Horaris</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>UiDesigner</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

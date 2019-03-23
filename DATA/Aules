@@ -1,0 +1,120 @@
+{"Aules": [{
+  "nom": "A6201",
+  "tipusAula": 1,
+  "aforament":60
+  },
+  {
+    "nom": "A6202",
+    "tipusAula":1,
+    "aforament":60
+  },
+  {
+    "nom": "A6203",
+    "tipusAula":3,
+    "aforament":30
+  },
+  {
+    "nom": "A6204",
+    "tipusAula":3,
+    "aforament":30
+  },
+  {
+    "nom": "A6205",
+    "tipusAula":3,
+    "aforament":30
+  },
+  {
+    "nom": "A6101",
+    "tipusAula":1,
+    "aforament":60
+  },
+  {
+    "nom": "A6102",
+    "tipusAula":1,
+    "aforament":60
+  },
+  {
+    "nom": "A6103",
+    "tipusAula":3,
+    "aforament":30
+  },
+  {
+    "nom": "A6104",
+    "tipusAula":3,
+    "aforament":30
+  },
+  {
+    "nom": "A6105",
+    "tipusAula":3,
+    "aforament":30
+  },{
+    "nom": "A5201",
+    "tipusAula": 1,
+    "aforament":60
+  },
+  {
+    "nom": "A5202",
+    "tipusAula":1,
+    "aforament":60
+  },
+  {
+    "nom": "A5203",
+    "tipusAula":3,
+    "aforament":30
+  },
+  {
+    "nom": "A5204",
+    "tipusAula":3,
+    "aforament":30
+  },
+  {
+    "nom": "A5205",
+    "tipusAula":3,
+    "aforament":30
+  },
+  {
+    "nom": "A5101",
+    "tipusAula":1,
+    "aforament":60
+  },
+  {
+    "nom": "A5102",
+    "tipusAula":1,
+    "aforament":60
+  },
+  {
+    "nom": "A5103",
+    "tipusAula":3,
+    "aforament":30
+  },
+  {
+    "nom": "A5104",
+    "tipusAula":3,
+    "aforament":30
+  },
+  {
+    "nom": "A5105",
+    "tipusAula":3,
+    "aforament":30
+  },
+  {
+    "nom": "A5S101",
+    "tipusAula":2,
+    "aforament":30
+  },
+  {
+    "nom": "A5S102",
+    "tipusAula":2,
+    "aforament":30
+  },
+  {
+    "nom": "A5S103",
+    "tipusAula":2,
+    "aforament":30
+  },
+  {
+    "nom": "A5S104",
+    "tipusAula":2,
+    "aforament":30
+  }]
+}

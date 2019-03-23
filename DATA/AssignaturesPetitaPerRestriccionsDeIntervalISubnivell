@@ -1,0 +1,28 @@
+{"Assignatures": [{
+  "Codi": "PROP",
+  "Nom": "Projectes de Programacio",
+  "NumCredits":6,
+  "NumPlaces":50,
+  "Quadrimestre":1,
+  "NumGrups":3,
+  "numSubgrupsPerGrup":4,
+  "numSessionsSetmanals":2,
+  "horesSetmanals":4,
+  "Correquisits": [],
+  "InverseCorrequisits": [],
+  "Fase": ""
+},
+  {
+    "Codi": "LI",
+    "Nom": "Logica en l'inforamtica",
+    "NumCredits":6,
+    "NumPlaces":50,
+    "Quadrimestre":1,
+    "NumGrups":1,
+    "numSubgrupsPerGrup":3,
+    "numSessionsSetmanals":2,
+    "horesSetmanals":4,
+    "Correquisits": [],
+    "InverseCorrequisits": [],
+    "Fase": ""
+  }]}

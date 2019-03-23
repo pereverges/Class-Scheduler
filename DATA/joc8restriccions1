@@ -1,0 +1,1 @@
+{"RestriccionsHora":[{"IntervalHorari":[{"Interval":"PROP 8-10"}],"id":"4"},{"IntervalHorari":[{"Interval":"F 8-10"}],"id":"5"},{"IntervalHorari":[{"Interval":"FM 8-10"}],"id":"6"},{"IntervalHorari":[{"Interval":"PRO2 8-10"}],"id":"7"}],"RestriccionsSubnivell":[{"Subnivell":[{"Codi":"PROP"},{"Codi":"IC"},{"Codi":"M1"},{"Codi":"LP"}],"id":"1"}]}

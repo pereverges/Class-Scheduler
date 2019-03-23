@@ -1,0 +1,1 @@
+{"RestriccionsHora":[{"IntervalHorari":[{"Interval":"A 8-10"}],"id":"3"}],"RestriccionsSubnivell":[{"Subnivell":[{"Codi":"SID"},{"Codi":"G"},{"Codi":"LI"},{"Codi":"TC"},{"Codi":"LP"},{"Codi":"LG"}],"id":"1"},{"Subnivell":[{"Codi":"A"},{"Codi":"IA"},{"Codi":"LI"},{"Codi":"TC"},{"Codi":"LP"},{"Codi":"LG"}],"id":"2"},{"Subnivell":[{"Codi":"IDI"},{"Codi":"LI"}],"id":"4"}]}

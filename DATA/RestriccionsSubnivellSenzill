@@ -1,0 +1,8 @@
+{"RestriccionsSubnivell": [{
+  "id": "1",
+  "Subnivell": [
+    {"Codi": "PROP"},
+    {"Codi": "LI"}]
+}],
+  "RestriccionsHora": []
+}

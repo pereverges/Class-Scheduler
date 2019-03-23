@@ -1,0 +1,20 @@
+{"GrupAssig": [{
+  "numGrup": 10,
+  "numPlaces": 20,
+  "tipusAula":1,
+  "idAssig":"LI",
+  "Aules":{"tipusAula":1,"aforament":20,"nom":"A5102"},
+  "Horari":{"HoraInici":8,"DiaSetmana":1,"durada":1}
+},
+  {
+    "numGrup": 10,
+    "numPlaces": 20,
+    "tipusAula":1,
+    "idAssig":"LP",
+    "Aules":{"tipusAula":1,"aforament":20,"nom":"A5102"},
+    "Horari":{"HoraInici":8,"DiaSetmana":1,"durada":1}
+
+  }],
+  "FitxerAules": "",
+  "FitxerAssignatures": ""
+}

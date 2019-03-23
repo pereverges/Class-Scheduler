@@ -1,0 +1,20 @@
+{"Aules": [{
+  "nom": "A6201",
+  "tipusAula": 1,
+  "aforament":60
+},
+  {
+    "nom": "A6202",
+    "tipusAula":1,
+    "aforament":60
+  },
+  {
+    "nom": "A6203",
+    "tipusAula":3,
+    "aforament":30
+  },
+  {
+    "nom": "A6204",
+    "tipusAula":3,
+    "aforament":30
+  }]}

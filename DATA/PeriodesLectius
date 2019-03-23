@@ -1,0 +1,25 @@
+{"PeriodesLectius": [{
+  "nom": "Total",
+  "id": "1",
+  "horaInici":8,
+  "horaFinal":20,
+  "dataInici":1,
+  "dataFinal":5
+},
+  {
+    "nom": "Mati",
+    "id": "2",
+    "horaInici":8,
+    "horaFinal":14,
+    "dataInici":1,
+    "dataFinal":5
+  },
+  {
+    "nom": "Tarda",
+    "id": "3",
+    "horaInici":14,
+    "horaFinal":20,
+    "dataInici":1,
+    "dataFinal":5
+  }]
+}
